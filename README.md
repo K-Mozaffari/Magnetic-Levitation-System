@@ -1,0 +1,2 @@
+# Magnetic-Levitation-System
+This project explored the linear systems controller design, implementation and  analysis  of r a linearized magnetic levitation multi-input/multi-output (MIMO) system by using Matlab software . Controllers were designed for the system plant using classical control and modern control methods. Two PID controllers (one for each input-output mode) and a state feedback controller with observer were designed for and implemented on the plant in order to meet desired design specifications.
